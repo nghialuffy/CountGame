@@ -1,0 +1,8 @@
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\bin\Debug\Count_Game.exe.config
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\bin\Debug\Count_Game.exe
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\bin\Debug\Count_Game.pdb
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\obj\Debug\Count_Game.Count_game.resources
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\obj\Debug\Count_Game.Properties.Resources.resources
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\obj\Debug\Count_Game.csproj.GenerateResource.Cache
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\obj\Debug\Count_Game.exe
+E:\WordSpace\Visual Studio 2017\Count_Game\Count_Game\obj\Debug\Count_Game.pdb
